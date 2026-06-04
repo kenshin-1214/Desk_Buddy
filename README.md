@@ -6,3 +6,5 @@ The device can start automatically on boot and respond through buttons, timing f
 This project explores the idea of turning a small embedded system into a helpful and expressive study partner.
 
 ![DeskBuddy](IMG_3094.png)
+
+↑↑↑ This is my ideal Robot.
