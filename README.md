@@ -18,3 +18,15 @@ Today, I finally bought the display!
 First step,I tried to show some text. but a little bit I fotgot how to code in Python. I have to remember and learn Python.
 And then, I wanted to change the screen to another one. Unfortunately, it did not move another one.
 Tomorrow, I want to introduce the button switch. It can be more reality.
+
+
+
+
+
+
+
+
+# Item
+
+・Display : https://ssci.to/10138
+・Raspberry pi 5 : https://ssci.to/9250
